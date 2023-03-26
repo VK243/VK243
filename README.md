@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on AI<br>🌱 I’m currently learning Deep Learning <br>😄 Pronouns: He/Him
+🔭 I’m currently working on AI<br>🌱 I’m currently learning Deep Learning Algorithms<br>😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
