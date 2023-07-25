@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-# 💫 About Me:
-🔭 I’m a Computer Science Engineering Graduate<br>😄 Pronouns: He/Him
+# 🔭  About Me:
+I’m a Computer Science Engineering Graduate<br>Pronouns: He/Him
 
 
 ## 🌐 Socials:
