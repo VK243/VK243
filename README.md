@@ -17,7 +17,5 @@ I’m a Computer Science Engineering Graduate<br>Pronouns: He/Him
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VK243&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 
